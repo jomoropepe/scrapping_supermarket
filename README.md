@@ -1,2 +1,2 @@
-# scrapping_supermarket
+# Supermarket Scrapping
 Project to scapping Supermarket
